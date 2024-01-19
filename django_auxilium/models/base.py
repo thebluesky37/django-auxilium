@@ -7,8 +7,7 @@ from __future__ import print_function, unicode_literals
 
 from django.conf import settings
 from django.db import models
-from django.utils.encoding import python_2_unicode_compatible
-
+from six import python_2_unicode_compatible
 
 User = settings.AUTH_USER_MODEL
 

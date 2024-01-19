@@ -8,5 +8,4 @@ Development Lead
 
 Contributors
 ~~~~~~~~~~~~
-
-None yet. Why not be the first?
+* Thanh Nguyen - https://github.com/thebluesky37
